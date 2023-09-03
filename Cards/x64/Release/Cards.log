@@ -1,0 +1,11 @@
+﻿  utf-16
+c1xx : fatal  error C1083: Не удается открыть файл источник: utf-16: No such file or directory,
+  Cards.cpp
+C:\Users\User\source\repos\Cards\Cards.cpp(201,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Cards\Cards.cpp(202,47): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Cards\Cards.cpp(1547,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Cards\Cards.cpp(1565,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Cards\Cards.cpp(1566,42): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Cards\Cards.cpp(1587,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Cards\Cards.cpp(1588,42): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Cards\Cards.cpp(1874,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных

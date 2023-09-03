@@ -1,0 +1,14 @@
+﻿  Cards.cpp
+C:\Users\User\source\repos\Cards\Cards.cpp(201,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Cards\Cards.cpp(202,47): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Cards\Cards.cpp(1479,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Cards\Cards.cpp(1497,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Cards\Cards.cpp(1498,42): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Cards\Cards.cpp(1519,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Cards\Cards.cpp(1520,42): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Cards\Cards.cpp(1806,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\Cards\Cards.cpp(186): warning C4715: first_player: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\Cards\Cards.cpp(1513): warning C4715: getPassword: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\Cards\Cards.cpp(1535): warning C4715: getCoins: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\Cards\Cards.cpp(1734): warning C4715: LogIn: значение возвращается не при всех путях выполнения
+  Cards.vcxproj -> C:\Users\User\source\repos\Cards\x64\Debug\Cards.exe
